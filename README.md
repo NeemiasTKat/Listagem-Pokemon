@@ -19,5 +19,5 @@
 
 <br>
 
-- Iphone/Android:
+- 📱 Iphone/Android:
 <img src="src/imagens/background-readme.jpg">
